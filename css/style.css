@@ -109,6 +109,7 @@ a:hover {
 /* Head Offer */ 
 .head-offer {
     padding-bottom: 200px;
+    overflow: hidden;
 }
 .head-offer__flex_wrapper {
     position: relative;
